@@ -1,5 +1,4 @@
 # SNS_PROJECT_SPYWARE
-Keylogger,AudioLogger and Screenshotlogger
 This is a System and network security project.
 Implemented a Spyware which is capable of performing the following functions :
 
